@@ -1,2 +1,2 @@
 # ML_projects
-Machine learning python projects
+Machine Learning python projects
